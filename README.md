@@ -1,32 +1,26 @@
 # Caixa Branca
- 
+
 ## Descrição
-O código deste projeto foi pré disponibilizado na linguagem Java, e meu objetivo é utilizar os métodos aprendidos em aula de teste de caixa branca.
+O código foi desenvolvido usando o Apache NetBeans IDE 16, na linguagem java. E o objetivo é análisar o funcionamento do código com um fluxo grafo.
 
 ## Código
-![image](https://github.com/yVinii/CaixaBranca/assets/117307556/0f4f6ee4-1d52-4ebb-abd3-a9f1a54cef18)
+![image](https://github.com/yVinii/CaixaBranca/assets/117307556/6f13fdfa-dd7c-49a7-a693-43e95713880e)
 
-## Análise
-### 1- A documentação foi descrita no código?
-Não apresenta documentação no código, além de não conter observações que poderiam auxiliar, isso complica a compreensão do propósito dessa classe.
+## Grafo de fluxo
+![image](https://github.com/yVinii/CaixaBranca/assets/117307556/d334bc4c-352e-4082-b218-b941c3c9d122)
 
-### 2- As variáveis e constantes possuem boa nomenclatura?
-Algumas váriaveis possuem pouca descrição em sua nomenclatura, assim causando alguma confusão no entendimento.
+## Complexidade
+Segundo o grafo de fluxo feito, se fizermos a conta para obter a complexidade teremos como resultado 2. Isso significa que existem dois caminhos no código que precisam ser testados por completo.
 
-### 3- Existem legibilidade e organização no código?
-O código carece de uma boa clareza, pois não contém comentários, o que dificulta a visão geral de cada etapa do processo.
+## Possíveis fluxos
+### Fluxo principal
+![image](https://github.com/yVinii/CaixaBranca/assets/117307556/cf11f0ca-dfc7-4bf5-bf8a-ebd79d1f58ce)
 
-### 4- Todos os nullpointers foram tratados?
-Em várias ocasiões no código, surgem exceções de ponteiro nulo (NullPointerException) que não estão sendo adequadamente tratadas.
-
-### 5- A arquitetura utilizada foi devidamente respeitada?
-O código disponibilizado não apresenta uma arquitetura sólida, carece de pormenores em termos de segurança e possui lacunas no design que comprometem a compreensão funcional do código.
-
-### 6- As conexões utilizadas foram fechadas?
-O código não contém qualquer encerramento das conexões utilizadas, o que pode resultar em vazamento de recursos e comprometer a eficácia do funcionamento.
+### Fluxo de exceções
+![image](https://github.com/yVinii/CaixaBranca/assets/117307556/891d77ba-fce1-4d2d-b421-5d269e1739dc)
 
 ## Publicação
-https://github.com/ArthurBechir/CaixaBranca
+https://github.com/yVinii/CaixaBranca
 
-## Última atualização 26/09/2023
+## Última atualização 01/10/2023
 
