@@ -1,7 +1,7 @@
 # Caixa Branca
 
 ## Descrição
-O código foi desenvolvido usando o Apache NetBeans IDE 16, na linguagem java. E o objetivo é análisar o funcionamento do código com um fluxo grafo.
+O código deste projeto foi pré disponibilizado na linguagem Java, e meu objetivo é utilizar os métodos aprendidos em aula para realizar um fluxo grafo.
 
 ## Código
 ![image](https://github.com/yVinii/CaixaBranca/assets/117307556/6f13fdfa-dd7c-49a7-a693-43e95713880e)
@@ -10,7 +10,7 @@ O código foi desenvolvido usando o Apache NetBeans IDE 16, na linguagem java. E
 ![image](https://github.com/yVinii/CaixaBranca/assets/117307556/d334bc4c-352e-4082-b218-b941c3c9d122)
 
 ## Complexidade
-Segundo o grafo de fluxo feito, se fizermos a conta para obter a complexidade teremos como resultado 2. Isso significa que existem dois caminhos no código que precisam ser testados por completo.
+O resultado obtido após calcular a complexidade foi 2. Logo existem dois caminhos à serem testados no código.
 
 ## Possíveis fluxos
 ### Fluxo principal
@@ -20,7 +20,7 @@ Segundo o grafo de fluxo feito, se fizermos a conta para obter a complexidade te
 ![image](https://github.com/yVinii/CaixaBranca/assets/117307556/891d77ba-fce1-4d2d-b421-5d269e1739dc)
 
 ## Publicação
-https://github.com/yVinii/CaixaBranca
+https://github.com/ArthurBechir/CaixaBranca
 
-## Última atualização 01/10/2023
+## Última atualização 03/10/2023
 
